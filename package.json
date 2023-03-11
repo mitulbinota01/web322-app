@@ -110,6 +110,7 @@
     "streamifier": "^0.1.1",
     "streamsearch": "^1.1.0",
     "string_decoder": "^1.1.1",
+    "strip-js": "^1.2.0",
     "toidentifier": "^1.0.1",
     "tslib": "^2.5.0",
     "type-check": "^0.3.2",
@@ -132,7 +133,6 @@
   },
   "author": "Mitul Binota",
   "license": "ISC",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mitulbinota01/web322-app.git"
